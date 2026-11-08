@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pinkpumpkins.github.io/czenglishwords/sitemap.xml

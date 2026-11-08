@@ -1,0 +1,13 @@
+# 听歌学单词·K12初中版 · 一词一宇宙
+
+> 人教版2024新版初中英语单词学习站（七年级上册～九年级上册）。每个单词一页三阶讲透：
+> 标准读音（Web Speech，含慢速）、课本原文直通车、中英金句微故事、中考考点卡、
+> 易混辨析卡、闯关游戏、词源同源惊喜、名著微阅读、艾宾浩斯复习打卡。
+> 共 2191 个单词页（2435 词条，跨册复现词共享页面）。
+
+- [总目录](https://pinkpumpkins.github.io/czenglishwords/): 全部单词的可搜索总目录，支持 学习顺序（册→单元）与 首字母 A-Z 双排序
+- 单页 URL 规则: https://pinkpumpkins.github.io/czenglishwords/{word}.html（如 [PRC](https://pinkpumpkins.github.io/czenglishwords/PRC.html)、[bottle](https://pinkpumpkins.github.io/czenglishwords/bottle.html)、[make friends](https://pinkpumpkins.github.io/czenglishwords/make%20friends.html)）
+- 内容结构: 课本原文直通车 / 五维拆解 / 功能句 / 微型故事与经典微阅读 / 名言谚语 / 歌词记忆 / 冷知识 / 易混辨析quiz / 中考考点
+- 姊妹站: [听歌学单词·K12小学版](https://pinkpumpkins.github.io/k12englishwords/)（人教新起点1-6年级 798 词）
+- 听歌学单词·K12高中版: 内容欠奉，敬请期待
+- 自研声明: 青山@work 自研；歌曲/名言/词源均标注真实出处，不编造
